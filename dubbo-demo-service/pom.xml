@@ -10,19 +10,6 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>dubbo-demo-provider</artifactId>
-    <packaging>war</packaging>
-    <dependencies>
-        <dependency>
-            <groupId>com.mushan</groupId>
-            <artifactId>dubbo-demo-api</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.mushan</groupId>
-            <artifactId>dubbo-demo-api</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
 
 
 </project>
