@@ -19,4 +19,10 @@
     <bean id="demoServer" class="com.mushan.DemoServerImpl" />
     <dubbo:service interface="com.mushan.DemoServer" ref="demoServer" />
 
+
+
+
+
+    <!--fasdfasdfasdfasdfs-->
+
 </beans>
