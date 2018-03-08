@@ -25,11 +25,7 @@
         <!--</dependency>-->
 
 
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-webmvc</artifactId>
-            <version>4.0.6.RELEASE</version>
-        </dependency>
+
         <dependency>
             <groupId>com.mushan</groupId>
             <artifactId>dubbo-demo-consumer</artifactId>
